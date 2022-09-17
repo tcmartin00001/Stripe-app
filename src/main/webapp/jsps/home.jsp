@@ -13,7 +13,8 @@
 <h2 align="center"> Welcome to Landmark Technology.......We have a demo on DevOps E Degree with Linux and AWS  on Saturday Septmber 17, 2022 at 3PM EST for our new batch. 
 	Landmark Technology Stripe web application project2. 
 	</h2>
-	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED. Production</h2>
+	<h2 align="center" >DevOps is good. JESUS IS LORD. I AM BLESSED.
+		Amen. Production</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
